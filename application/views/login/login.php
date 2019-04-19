@@ -20,9 +20,9 @@
 						<span class="label-input100">Password</span>
 					</div>
 
-					<div class="flex-sb-m w-full p-t-3 p-b-32">
+					<div class="flex-sb-m w-full p-t-3 p-b-32" style="Font-color : 'blue'">
 						<div>
-							<a href="#" class="txt1">
+							<a href="<?= base_url() ?>index.php/login" class="txt1">
 								Registrarse
 							</a>
 						</div>
